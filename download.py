@@ -9,7 +9,7 @@ import re
 directory = '/storage/emulated/0/Android/data/com.netease.cloudmusic/cache/Cache/Lyric/'
 
 # 这个是下载后的目录，可自定义
-path = '/storage/emulated/0/0网易云音乐/'
+path = '/storage/emulated/0/'
 
 
 
