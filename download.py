@@ -5,6 +5,7 @@ import time
 import re
 
 
+
 # 这个是网易云缓存文件目录，一般不需要改
 directory = '/storage/emulated/0/Android/data/com.netease.cloudmusic/cache/Cache/Lyric/'
 
@@ -106,3 +107,5 @@ def main():
     except:
         print('您未选择，请重新选择')
 main()
+
+#改动
